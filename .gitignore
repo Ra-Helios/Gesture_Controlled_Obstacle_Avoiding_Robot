@@ -1,0 +1,7 @@
+# Git Ignore
+
+.ges_Py_3.11.x/
+__pycache__/
+_Not_Used_Codes_/
+Review_PPT/
+With_Live_Plotter/*.csv

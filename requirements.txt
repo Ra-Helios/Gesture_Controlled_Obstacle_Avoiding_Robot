@@ -1,0 +1,16 @@
+# Core plotting and numeric packages
+matplotlib>=3.8.0
+numpy>=1.26.0
+
+# Communication and networking
+pyserial>=3.5
+
+# Optional utility libraries (already in stdlib for 3.11+)
+# multiprocessing, math, time, socket, random -> built-in
+
+# Gesture & camera dependencies (from your existing setup)
+opencv-python>=4.10.0
+mediapipe>=0.10.14
+
+# Optional: progress display and system utilities
+tqdm>=4.66.0
