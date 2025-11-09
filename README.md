@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 Choose the mode folder:
 
-✅ Without live plot → `esp32_.py`
+✅ Without live plot → `esp32.py`
 
 📊 With live plot → set your PC IP in `esp32_wlp.py` then upload
 
